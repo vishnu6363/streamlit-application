@@ -11,6 +11,7 @@ import numpy as np
 import pandas as pd
 #from flask import jsonify
 import json
+import streamlit_option_menu
 
 
 from streamlit_option_menu import option_menu
